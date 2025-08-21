@@ -40,7 +40,7 @@ If you still want to install it (what are you doing with your life? 😂) you ca
 
 ```shell
 echo "Installing pyos!!!"
-git clone https://github.com/steveiliop56/PyOS
+(https://github.com/kushagra8881/pyos.git)
 cd PyOS/
 pip3 install -r requirements.txt
 python3 pyos.py
