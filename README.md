@@ -52,6 +52,4 @@ python3 pyos.py
 
 My eyes couldn't handle how bad it was, soooo, I deleted it 😁!
 
-## License
 
-The license is a simple GNU v3 so you can play with the code as much as your heart want. I am also not responsible if you manage to fry your computer with a simple python program. Good luck explaining to the warranty what happened 😁.
